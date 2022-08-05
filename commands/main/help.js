@@ -29,11 +29,10 @@ module.exports = {
 
             teks += `Send ${prefix}help followed by a command name to get detail of command, ex: ${prefix}help sticker`;
             let templateButtons = [
-                { urlButton: { displayText: "Source Code", url: "https://github.com/zhwzein/Killua-Zoldyck" } },
+                { urlButton: { displayText: "Source Code", url: "https://github.com/egmu/a1a" } },
                 { urlButton: { displayText: "Main APIs", url: "http://zenzapis.xyz" } },
-                { quickReplyButton: { displayText: "Button 1", id: "#" } },
-                { quickReplyButton: { displayText: "Button 2", id: "#" } },
-                { quickReplyButton: { displayText: "Button 3", id: "#" } },
+                { urlButton: { displayText: "Youtube Channel", url: "https://www.youtube.com/c/DEVIL-X-Code" } },
+                
             ]
             
             let templateMessage = {
