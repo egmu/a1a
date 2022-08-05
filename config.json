@@ -4,18 +4,18 @@
     "apikey": "11d5fc1f5529"
   },
   "options": {
-    "autoRead": false,
+    "autoRead": true,
     "self": false,
-    "limitCount": 20,
+    "limitCount": 300,
     "limitGame": 20
   },
   "exif": {
-    "packname": "zenzapi",
-    "author": "https://zenzapi.xyz"
+    "packname": "Riap",
+    "author": "Gw donk"
   },
   "owner": [
     "6289519240209"
   ],
   "timezone": "Asia/Jakarta",
-  "footer": "Powered by https://zenzapis.xyz"
+  "footer": "Wahai Pendosa .... ...."
 }
